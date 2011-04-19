@@ -1,0 +1,3 @@
+<?php
+
+include_once('ccrm_case_study.features.inc');
