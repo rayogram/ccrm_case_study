@@ -63,7 +63,7 @@ function ccrm_case_study_node_info() {
       'description' => t('To best illustrate the power of CiviCRM, we would like to invite you (and your clients) to contribute casestudies to be featured on the CiviCRM Web site.
 '),
       'has_title' => '1',
-      'title_label' => t('The name of the organization this case study is about:'),
+      'title_label' => t('The name of the organization this case study is about'),
       'has_body' => '1',
       'body_label' => t('Please describe the organization and summarize how this project successfully met their needs: '),
       'min_word_count' => '0',
